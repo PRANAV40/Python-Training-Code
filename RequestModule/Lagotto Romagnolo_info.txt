@@ -1,0 +1,10 @@
+Information of Lagotto Romagnolo:
+weight:{'imperial': '24 - 35', 'metric': '11 - 16'}
+height:{'imperial': '16 - 19', 'metric': '41 - 48'}
+id:151
+name:Lagotto Romagnolo
+bred_for:Water retrieval dog in the marshes of Romagna
+breed_group:Sporting
+life_span:14 - 16 years
+temperament:Keen, Loyal, Companionable, Loving, Active, Trainable
+reference_image_id:ryzzmgqE7

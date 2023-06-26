@@ -1,0 +1,1 @@
+Company Name	Purchase Price	Current Price	Deviation	Profit/Loss	Day High
